@@ -1,0 +1,20 @@
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_SubmapEntry
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_TrajectoryOptions
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_FinishTrajectory
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_WriteState
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_SubmapList
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_SensorTopics
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_StartTrajectory
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_SubmapTexture
+[  0%] Built target _cartographer_ros_msgs_generate_messages_check_deps_SubmapQuery
+[  0%] Built target geometry_msgs_generate_messages_py
+[ 18%] Built target cartographer_ros_msgs_generate_messages_lisp
+[ 39%] Built target cartographer_ros_msgs_generate_messages_eus
+[ 58%] Built target cartographer_ros_msgs_generate_messages_nodejs
+[ 77%] Built target cartographer_ros_msgs_generate_messages_cpp
+[100%] Built target cartographer_ros_msgs_generate_messages_py
+[100%] Built target cartographer_ros_msgs_generate_messages
