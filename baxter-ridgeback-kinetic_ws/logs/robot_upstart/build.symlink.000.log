@@ -1,0 +1,4 @@
+Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/share/robot_upstart/cmake/robot_upstartConfig-version.cmake
+Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/share/robot_upstart/cmake/robot_upstartConfig.cmake
+Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/robot_upstart.pc
+Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/python2.7/dist-packages/robot_upstart/__init__.py

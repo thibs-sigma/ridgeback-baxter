@@ -1,0 +1,8 @@
+prefix=/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/cartographer_rviz
+
+Name: cartographer_rviz
+Description: Description of cartographer_rviz
+Version: 0.2.0
+Cflags: -I/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/cartographer_ros/cartographer_rviz/.
+Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/cartographer_rviz/lib 
+Requires: message_runtime cartographer_ros cartographer_ros_msgs eigen_conversions message_runtime roscpp roslib rviz

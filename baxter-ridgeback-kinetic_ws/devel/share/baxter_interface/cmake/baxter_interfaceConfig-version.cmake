@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter_interface/share/baxter_interface/cmake/baxter_interfaceConfig-version.cmake

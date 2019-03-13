@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_msgs/share/roseus/ros/ridgeback_msgs/msg/Fans.l

@@ -1,0 +1,4 @@
+mounting-baxter-ridgeback/baxter-ridgeback_description
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter-ridgeback_description/share/baxter-ridgeback_description/cmake/baxter-ridgeback_descriptionConfig.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/baxter-ridgeback_description/cmake/baxter-ridgeback_descriptionConfig.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter-ridgeback_description/share/baxter-ridgeback_description/cmake/baxter-ridgeback_descriptionConfig-version.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/baxter-ridgeback_description/cmake/baxter-ridgeback_descriptionConfig-version.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter-ridgeback_description/lib/pkgconfig/baxter-ridgeback_description.pc /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/baxter-ridgeback_description.pc

@@ -1,0 +1,8 @@
+prefix=/home/thib/ridgeback-cartographer_ws/install
+
+Name: mecanum_gazebo_plugin
+Description: Description of mecanum_gazebo_plugin
+Version: 0.0.2
+Cflags: 
+Libs: -L/home/thib/ridgeback-cartographer_ws/install/lib 
+Requires: 

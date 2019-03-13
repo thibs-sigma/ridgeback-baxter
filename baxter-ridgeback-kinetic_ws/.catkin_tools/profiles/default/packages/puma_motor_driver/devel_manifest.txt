@@ -1,0 +1,6 @@
+ridgeback/puma_motor_driver/puma_motor_driver
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_driver/share/puma_motor_driver/cmake/puma_motor_driverConfig.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/puma_motor_driver/cmake/puma_motor_driverConfig.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_driver/share/puma_motor_driver/cmake/puma_motor_driverConfig-version.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/puma_motor_driver/cmake/puma_motor_driverConfig-version.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_driver/lib/libpuma_motor_driver.so /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/libpuma_motor_driver.so
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_driver/lib/puma_motor_driver/puma_multi_controller_node /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/puma_motor_driver/puma_multi_controller_node
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_driver/lib/pkgconfig/puma_motor_driver.pc /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/puma_motor_driver.pc

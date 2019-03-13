@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter_maintenance_msgs/share/baxter_maintenance_msgs/cmake/baxter_maintenance_msgs-msg-paths.cmake

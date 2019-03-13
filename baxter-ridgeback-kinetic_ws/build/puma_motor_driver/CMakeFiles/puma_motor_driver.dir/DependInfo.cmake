@@ -1,0 +1,34 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_driver/src/diagnostic_updater.cpp" "/home/thib/baxter-ridgeback-kinetic_ws/build/puma_motor_driver/CMakeFiles/puma_motor_driver.dir/src/diagnostic_updater.cpp.o"
+  "/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_driver/src/driver.cpp" "/home/thib/baxter-ridgeback-kinetic_ws/build/puma_motor_driver/CMakeFiles/puma_motor_driver.dir/src/driver.cpp.o"
+  "/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_driver/src/multi_driver_node.cpp" "/home/thib/baxter-ridgeback-kinetic_ws/build/puma_motor_driver/CMakeFiles/puma_motor_driver.dir/src/multi_driver_node.cpp.o"
+  "/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_driver/src/serial_gateway.cpp" "/home/thib/baxter-ridgeback-kinetic_ws/build/puma_motor_driver/CMakeFiles/puma_motor_driver.dir/src/serial_gateway.cpp.o"
+  "/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_driver/src/socketcan_gateway.cpp" "/home/thib/baxter-ridgeback-kinetic_ws/build/puma_motor_driver/CMakeFiles/puma_motor_driver.dir/src/socketcan_gateway.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "ROSCONSOLE_BACKEND_LOG4CXX"
+  "ROS_PACKAGE_NAME=\"puma_motor_driver\""
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_driver/include"
+  "/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_msgs/include"
+  "/opt/ros/kinetic/include"
+  "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

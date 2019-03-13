@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thib/ridgeback-cartographer_ws/devel/.private/ridgeback_gazebo/setup.sh

@@ -1,0 +1,1 @@
+/home/thib/ridgeback-cartographer_ws/devel/.private/ridgeback_control/share/ridgeback_control/cmake/ridgeback_controlConfig.cmake

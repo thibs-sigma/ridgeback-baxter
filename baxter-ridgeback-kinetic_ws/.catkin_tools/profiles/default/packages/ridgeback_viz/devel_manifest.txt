@@ -1,0 +1,4 @@
+ridgeback/ridgeback_viz
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_viz/share/ridgeback_viz/cmake/ridgeback_vizConfig-version.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/ridgeback_viz/cmake/ridgeback_vizConfig-version.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_viz/share/ridgeback_viz/cmake/ridgeback_vizConfig.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/ridgeback_viz/cmake/ridgeback_vizConfig.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_viz/lib/pkgconfig/ridgeback_viz.pc /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/ridgeback_viz.pc

@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_msgs/lib/python2.7/dist-packages/puma_motor_msgs/msg/_MultiStatus.py
