@@ -21,7 +21,7 @@ This repo contains all working content for the Baxter-on-Ridgeback project.
 ## ridgeback-cartographer_ws
 
 - **Working simulator + able to communicate with the real platform, for 2D-SLAM Mapping**
-- **BEFORE CATKIN BUILD, LAUNCH THE `ridgeback_cartographer_install.sh` SCRIPT IN `ridgeback_cartographer_navigation` PACKAGE !**
+- <span style="color:red"> **BEFORE CATKIN BUILD, LAUNCH THE `ridgeback_cartographer_install.sh` SCRIPT IN `ridgeback_cartographer_navigation` PACKAGE !** </span>
 - Succeed ! Launch everything from the remote PC, `. remote-ridgeback.sh` before all to be able to connect de the RIDGEBACK `ROS_MASTER`
 
     ```bash
