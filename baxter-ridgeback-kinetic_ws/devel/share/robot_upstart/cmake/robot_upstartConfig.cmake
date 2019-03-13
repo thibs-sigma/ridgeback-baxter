@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/robot_upstart/share/robot_upstart/cmake/robot_upstartConfig.cmake

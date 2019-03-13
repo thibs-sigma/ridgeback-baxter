@@ -1,8 +1,0 @@
-prefix=/home/thib/baxter-ridgeback-kinetic_ws/install
-
-Name: ridgeback_description
-Description: Description of ridgeback_description
-Version: 0.1.9
-Cflags: 
-Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/install/lib 
-Requires: 

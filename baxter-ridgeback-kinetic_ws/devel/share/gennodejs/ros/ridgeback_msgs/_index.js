@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_msgs/share/gennodejs/ros/ridgeback_msgs/_index.js

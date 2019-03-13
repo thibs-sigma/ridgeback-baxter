@@ -1,2 +1,0 @@
-set(puma_motor_msgs_MESSAGE_FILES "/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_msgs/msg/MultiStatus.msg;/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_msgs/msg/Status.msg;/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_msgs/msg/MultiFeedback.msg;/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/puma_motor_driver/puma_motor_msgs/msg/Feedback.msg")
-set(puma_motor_msgs_SERVICE_FILES "")

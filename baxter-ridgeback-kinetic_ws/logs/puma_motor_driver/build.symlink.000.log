@@ -1,5 +1,0 @@
-Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/share/puma_motor_driver/cmake/puma_motor_driverConfig.cmake
-Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/share/puma_motor_driver/cmake/puma_motor_driverConfig-version.cmake
-Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/libpuma_motor_driver.so
-Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/puma_motor_driver/puma_multi_controller_node
-Symlinking /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/puma_motor_driver.pc

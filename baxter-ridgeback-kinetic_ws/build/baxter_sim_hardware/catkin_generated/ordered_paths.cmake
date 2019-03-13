@@ -1,1 +1,0 @@
-set(ORDERED_PATHS "/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter_sim_kinematics/lib;/opt/ros/kinetic/lib")

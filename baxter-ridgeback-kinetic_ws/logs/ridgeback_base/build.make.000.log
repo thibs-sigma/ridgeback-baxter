@@ -1,8 +1,0 @@
-[35m[1mScanning dependencies of target ridgeback_node[0m
-[ 16%] [32mBuilding CXX object CMakeFiles/ridgeback_node.dir/src/ridgeback_base.cpp.o[0m
-[ 33%] [32mBuilding CXX object CMakeFiles/ridgeback_node.dir/src/ridgeback_hardware.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/ridgeback_node.dir/src/ridgeback_diagnostic_updater.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/ridgeback_node.dir/src/ridgeback_cooling.cpp.o[0m
-[ 83%] [32mBuilding CXX object CMakeFiles/ridgeback_node.dir/src/ridgeback_lighting.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_base/lib/ridgeback_base/ridgeback_node[0m
-[100%] Built target ridgeback_node

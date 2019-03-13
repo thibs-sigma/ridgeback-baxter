@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_base/share/ridgeback_base/cmake/ridgeback_baseConfig.cmake

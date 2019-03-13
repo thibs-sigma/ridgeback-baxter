@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter_sim_kinematics/share/baxter_sim_kinematics/cmake/baxter_sim_kinematicsConfig.cmake

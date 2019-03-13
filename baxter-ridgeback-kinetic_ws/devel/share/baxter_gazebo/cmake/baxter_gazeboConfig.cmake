@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter_gazebo/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake

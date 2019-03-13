@@ -1,8 +1,0 @@
-prefix=/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo_plugins
-
-Name: ridgeback_gazebo_plugins
-Description: Description of ridgeback_gazebo_plugins
-Version: 0.0.2
-Cflags: -I/home/thib/baxter-ridgeback-kinetic_ws/src/ridgeback/ridgeback_gazebo_plugins/include
-Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo_plugins/lib 
-Requires: roscpp std_msgs geometry_msgs nav_msgs tf message_runtime

@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/cartographer_ros_msgs/share/roseus/ros/cartographer_ros_msgs/srv/WriteState.l

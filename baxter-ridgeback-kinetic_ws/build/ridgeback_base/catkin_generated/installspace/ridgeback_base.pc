@@ -1,8 +1,0 @@
-prefix=/home/thib/baxter-ridgeback-kinetic_ws/install
-
-Name: ridgeback_base
-Description: Description of ridgeback_base
-Version: 0.1.7
-Cflags: 
-Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/install/lib 
-Requires: 

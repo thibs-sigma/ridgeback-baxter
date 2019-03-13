@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/robot_upstart/lib/python2.7/dist-packages/robot_upstart/__init__.py

@@ -1,8 +1,0 @@
-prefix=/home/thib/ridgeback-cartographer_ws/install
-
-Name: ridgeback_navigation
-Description: Description of ridgeback_navigation
-Version: 0.2.1
-Cflags: 
-Libs: -L/home/thib/ridgeback-cartographer_ws/install/lib 
-Requires: 

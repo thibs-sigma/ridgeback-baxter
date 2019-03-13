@@ -1,8 +1,0 @@
-prefix=/home/thib/baxter-ridgeback-kinetic_ws/install
-
-Name: puma_motor_driver
-Description: Description of puma_motor_driver
-Version: 0.1.2
-Cflags: -I/home/thib/baxter-ridgeback-kinetic_ws/install/include
-Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/install/lib -lpuma_motor_driver
-Requires: diagnostic_updater puma_motor_msgs roscpp sensor_msgs serial

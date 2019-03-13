@@ -1,4 +1,0 @@
-mounting-baxter-ridgeback/baxter-ridgeback_gazebo
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter-ridgeback_gazebo/share/baxter-ridgeback_gazebo/cmake/baxter-ridgeback_gazeboConfig-version.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/baxter-ridgeback_gazebo/cmake/baxter-ridgeback_gazeboConfig-version.cmake
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter-ridgeback_gazebo/share/baxter-ridgeback_gazebo/cmake/baxter-ridgeback_gazeboConfig.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/baxter-ridgeback_gazebo/cmake/baxter-ridgeback_gazeboConfig.cmake
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter-ridgeback_gazebo/lib/pkgconfig/baxter-ridgeback_gazebo.pc /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/baxter-ridgeback_gazebo.pc

@@ -1,1 +1,0 @@
-/home/thib/ridgeback-cartographer_ws/devel/.private/catkin_tools_prebuild/setup.zsh

@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo_plugins/lib/pkgconfig/ridgeback_gazebo_plugins.pc

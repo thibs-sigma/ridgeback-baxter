@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_msgs/lib/python2.7/dist-packages/ridgeback_msgs/msg/_Status.py

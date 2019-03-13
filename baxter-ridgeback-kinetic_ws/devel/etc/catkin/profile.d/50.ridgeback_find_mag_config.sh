@@ -1,1 +1,0 @@
-/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_base/etc/catkin/profile.d/50.ridgeback_find_mag_config.sh

@@ -1,8 +1,0 @@
-prefix=/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_cartographer_navigation
-
-Name: ridgeback_cartographer_navigation
-Description: Description of ridgeback_cartographer_navigation
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_cartographer_navigation/lib 
-Requires: 

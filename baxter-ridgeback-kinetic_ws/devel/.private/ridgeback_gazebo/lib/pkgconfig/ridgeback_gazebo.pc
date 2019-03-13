@@ -1,8 +1,0 @@
-prefix=/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo
-
-Name: ridgeback_gazebo
-Description: Description of ridgeback_gazebo
-Version: 0.0.2
-Cflags: 
-Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo/lib 
-Requires: 
