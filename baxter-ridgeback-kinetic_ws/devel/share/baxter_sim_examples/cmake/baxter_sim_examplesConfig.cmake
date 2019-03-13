@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter_sim_examples/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig.cmake

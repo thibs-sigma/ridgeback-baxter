@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thib/baxter-ridgeback-kinetic_ws/devel/.private/baxter-ridgeback_gazebo/setup.sh

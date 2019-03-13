@@ -1,0 +1,4 @@
+ridgeback/ridgeback_navigation
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_navigation/share/ridgeback_navigation/cmake/ridgeback_navigationConfig-version.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/ridgeback_navigation/cmake/ridgeback_navigationConfig-version.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_navigation/share/ridgeback_navigation/cmake/ridgeback_navigationConfig.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/ridgeback_navigation/cmake/ridgeback_navigationConfig.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_navigation/lib/pkgconfig/ridgeback_navigation.pc /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/ridgeback_navigation.pc

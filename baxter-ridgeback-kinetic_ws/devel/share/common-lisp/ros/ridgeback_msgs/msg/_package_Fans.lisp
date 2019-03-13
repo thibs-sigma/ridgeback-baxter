@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_msgs/share/common-lisp/ros/ridgeback_msgs/msg/_package_Fans.lisp

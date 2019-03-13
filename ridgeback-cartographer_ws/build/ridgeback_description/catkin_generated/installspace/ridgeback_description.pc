@@ -1,0 +1,8 @@
+prefix=/home/thib/ridgeback-cartographer_ws/install
+
+Name: ridgeback_description
+Description: Description of ridgeback_description
+Version: 0.2.1
+Cflags: 
+Libs: -L/home/thib/ridgeback-cartographer_ws/install/lib 
+Requires: 

@@ -1,0 +1,4 @@
+ridgeback/ridgeback_gazebo
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo/share/ridgeback_gazebo/cmake/ridgeback_gazeboConfig.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/ridgeback_gazebo/cmake/ridgeback_gazeboConfig.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo/share/ridgeback_gazebo/cmake/ridgeback_gazeboConfig-version.cmake /home/thib/baxter-ridgeback-kinetic_ws/devel/share/ridgeback_gazebo/cmake/ridgeback_gazeboConfig-version.cmake
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_gazebo/lib/pkgconfig/ridgeback_gazebo.pc /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/pkgconfig/ridgeback_gazebo.pc

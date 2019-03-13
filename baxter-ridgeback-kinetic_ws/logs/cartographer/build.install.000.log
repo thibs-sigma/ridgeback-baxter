@@ -1,0 +1,236 @@
+[  2%] Built target gmock_main
+[ 60%] Built target cartographer
+[ 61%] Built target cartographer.mapping_2d.sparse_pose_graph_test
+[ 62%] Built target cartographer.mapping_2d.submaps_test
+[ 62%] Built target cartographer.mapping.probability_values_test
+[ 63%] Built target cartographer.common.blocking_queue_test
+[ 63%] Built target cartographer.mapping_2d.probability_grid_test
+[ 64%] Built target cartographer.mapping.submaps_test
+[ 65%] Built target cartographer.mapping.pose_graph_trimmer_test
+[ 66%] Built target cartographer.mapping_3d.submaps_test
+[ 67%] Built target cartographer.mapping_3d.range_data_inserter_test
+[ 68%] Built target cartographer.mapping.trajectory_connectivity_state_test
+[ 69%] Built target cartographer.mapping_2d.map_limits_test
+[ 70%] Built target cartographer.mapping_3d.scan_matching.rotational_scan_matcher_test
+[ 71%] Built target cartographer.common.math_test
+[ 71%] Built target cartographer.mapping_3d.scan_matching.ceres_scan_matcher_test
+[ 72%] Built target cartographer.sensor.ordered_multi_queue_test
+[ 73%] Built target cartographer.mapping_3d.motion_filter_test
+[ 74%] Built target cartographer.mapping_3d.local_trajectory_builder_test
+[ 75%] Built target cartographer.mapping_2d.scan_matching.ceres_scan_matcher_test
+[ 75%] Built target cartographer.mapping_3d.scan_matching.real_time_correlative_scan_matcher_test
+[ 76%] Built target cartographer.mapping_3d.scan_matching.precomputation_grid_test
+[ 76%] Built target cartographer.mapping_2d.xy_index_test
+[ 77%] Built target cartographer.mapping.trajectory_node_test
+[ 78%] Built target cartographer.mapping_3d.scan_matching.fast_correlative_scan_matcher_test
+[ 78%] Built target cartographer.sensor.voxel_filter_test
+[ 79%] Built target cartographer.mapping_3d.hybrid_grid_test
+[ 80%] Built target cartographer.mapping_3d.scan_matching.interpolated_grid_test
+[ 81%] Built target cartographer.sensor.collator_test
+[ 81%] Built target cartographer.io.proto_stream_test
+[ 81%] Built target cartographer_detect_changes
+[ 82%] Built target cartographer.io.points_processor_pipeline_builder_test
+[ 83%] Built target cartographer.transform.rigid_transform_test
+[ 84%] Built target cartographer.mapping.id_test
+[ 85%] Built target cartographer.common.rate_timer_test
+[ 86%] Built target cartographer_compute_relations_metrics
+[ 87%] Built target cartographer.common.configuration_files_test
+[ 87%] Built target cartographer.mapping_2d.scan_matching.fast_correlative_scan_matcher_test
+[ 88%] Built target cartographer.mapping_3d.sparse_pose_graph.optimization_problem_test
+[ 89%] Built target cartographer.common.fixed_ratio_sampler_test
+[ 90%] Built target cartographer.mapping.connected_components_test
+[ 90%] Built target cartographer.common.lua_parameter_dictionary_test
+[ 91%] Built target cartographer.sensor.point_cloud_test
+[ 92%] Built target cartographer.mapping_2d.scan_matching.correlative_scan_matcher_test
+[ 93%] Built target cartographer.sensor.range_data_test
+[ 94%] Built target cartographer.mapping_2d.scan_matching.real_time_correlative_scan_matcher_test
+[ 94%] Built target cartographer.sensor.compressed_point_cloud_test
+[ 95%] Built target cartographer.transform.transform_interpolation_buffer_test
+[ 96%] Built target cartographer.transform.transform_test
+[ 96%] Built target cartographer_autogenerate_ground_truth
+[ 97%] Built target cartographer.mapping_2d.range_data_inserter_test
+[ 98%] Built target gmock
+[ 99%] Built target gtest
+[100%] Built target gtest_main
+[100%] [34m[1mBuilding documentation.[0m
+[01mRunning Sphinx v1.3.6[39;49;00m
+[01mloading pickled environment... [39;49;00mdone
+[01mbuilding [mo]: [39;49;00mtargets for 0 po files that are out of date
+[01mbuilding [html][39;49;00m: targets for 0 source files that are out of date
+[01mupdating environment: [39;49;00m0 added, 0 changed, 0 removed
+[01mlooking for now-outdated files... [39;49;00mnone found
+[01mno targets are out of date.[39;49;00m
+[01mbuild succeeded.[39;49;00m
+[100%] Built target build_doc
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer/package.xml
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//configuration_files
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//configuration_files/map_builder.lua
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//configuration_files/trajectory_builder_2d.lua
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//configuration_files/sparse_pose_graph.lua
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//configuration_files/trajectory_builder.lua
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//configuration_files/trajectory_builder_3d.lua
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//cmake
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//cmake/modules
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//cmake/modules/FindSphinx.cmake
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//cmake/modules/FindLuaGoogle.cmake
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//cmake/modules/FindGMock.cmake
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer//cmake/functions.cmake
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/bin/cartographer_autogenerate_ground_truth
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/bin/cartographer_compute_relations_metrics
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/lib/libcartographer.a
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/acceleration_cost_function.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/imu_integration.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/local_trajectory_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/range_data_inserter.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/rotational_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/low_resolution_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/rotation_delta_cost_functor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/occupied_space_cost_functor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/interpolated_grid.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/real_time_correlative_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/fast_correlative_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/precomputation_grid.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/translation_delta_cost_functor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/ceres_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/hybrid_grid.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/rotation_cost_function.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/sparse_pose_graph.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/rotation_parameterization.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/local_trajectory_builder_options.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/sparse_pose_graph/spa_cost_function.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/sparse_pose_graph/optimization_problem.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/sparse_pose_graph/constraint_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/motion_filter.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/translation_cost_function.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/ceres_pose.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/submaps.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/trajectory_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/detect_floors.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/global_trajectory_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/global_trajectory_builder_interface.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/imu_tracker.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/connected_components.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/sparse_pose_graph.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/pose_graph_trimmer.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/sparse_pose_graph/optimization_problem_options.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/sparse_pose_graph/constraint_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/trajectory_node.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/id.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/trajectory_connectivity_state.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/pose_extrapolator.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/collated_trajectory_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/submaps.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/map_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/probability_values.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/pose_estimate.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/outlier_removing_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/min_max_range_filtering_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/hybrid_grid_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/coloring_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/file_writer.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/draw_trajectories.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/pcd_writing_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/xyz_writing_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/color.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/image.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/points_batch.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/frame_id_filtering_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/intensity_to_color_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/probability_grid_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/proto_stream.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/ply_writing_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/null_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/points_processor_pipeline_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/fixed_ratio_sampling_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/counting_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/io/xray_points_processor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/mutex.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/thread_pool.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/lua.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/configuration_file_resolver.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/make_unique.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/time.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/fixed_ratio_sampler.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/lua_parameter_dictionary_test_helpers.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/blocking_queue.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/histogram.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/rate_timer.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/port.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/lua_parameter_dictionary.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/math.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/ceres_solver_options.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/range_data.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/fixed_frame_pose_data.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/point_cloud.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/ordered_multi_queue.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/voxel_filter.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/data.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/imu_data.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/collator.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/compressed_point_cloud.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/odometry_data.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/ground_truth/relations_text_file.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/transform/transform.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/transform/transform_interpolation_buffer.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/transform/timestamped_transform.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/transform/rigid_transform_test_helpers.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/transform/rigid_transform.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/map_limits.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/ray_casting.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/local_trajectory_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/range_data_inserter.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/fast_global_localizer.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/rotation_delta_cost_functor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/occupied_space_cost_functor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/real_time_correlative_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/correlative_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/fast_correlative_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/translation_delta_cost_functor.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/ceres_scan_matcher.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/xy_index.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/sparse_pose_graph.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/local_trajectory_builder_options.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/sparse_pose_graph/spa_cost_function.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/sparse_pose_graph/optimization_problem.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/sparse_pose_graph/constraint_builder.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/probability_grid.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/submaps.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/proto/local_trajectory_builder_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/proto/range_data_inserter_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/proto/submaps_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/proto/hybrid_grid.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/proto/motion_filter_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/proto/fast_correlative_scan_matcher_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_3d/scan_matching/proto/ceres_scan_matcher_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/sparse_pose_graph_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/sparse_pose_graph.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/serialization.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/trajectory_builder_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/connected_components.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/map_builder_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/trajectory.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/submap.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/submap_visualization.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/proto/trajectory_node_data.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/sparse_pose_graph/proto/constraint_builder_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping/sparse_pose_graph/proto/optimization_problem_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/common/proto/ceres_solver_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/proto/adaptive_voxel_filter_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/sensor/proto/sensor.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/ground_truth/proto/relations.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/transform/proto/transform.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/proto/local_trajectory_builder_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/proto/probability_grid.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/proto/range_data_inserter_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/proto/submaps_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/proto/map_limits.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/proto/cell_limits.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/proto/fast_correlative_scan_matcher_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/proto/ceres_scan_matcher_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/include/cartographer/mapping_2d/scan_matching/proto/real_time_correlative_scan_matcher_options.pb.h
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer/cmake/CartographerTargets.cmake
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer/cmake/CartographerTargets-release.cmake
+-- Installing: /home/thib/baxter-ridgeback-kinetic_ws/devel/share/cartographer/cartographer-config.cmake

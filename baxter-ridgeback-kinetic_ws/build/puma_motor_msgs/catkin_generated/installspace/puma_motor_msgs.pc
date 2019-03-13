@@ -1,0 +1,8 @@
+prefix=/home/thib/baxter-ridgeback-kinetic_ws/install
+
+Name: puma_motor_msgs
+Description: Description of puma_motor_msgs
+Version: 0.1.2
+Cflags: -I/home/thib/baxter-ridgeback-kinetic_ws/install/include
+Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/install/lib 
+Requires: std_msgs message_runtime

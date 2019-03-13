@@ -1,0 +1,8 @@
+prefix=/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_navigation
+
+Name: ridgeback_navigation
+Description: Description of ridgeback_navigation
+Version: 0.1.9
+Cflags: 
+Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/ridgeback_navigation/lib 
+Requires: 

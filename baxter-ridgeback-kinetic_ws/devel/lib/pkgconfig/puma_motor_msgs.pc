@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_msgs/lib/pkgconfig/puma_motor_msgs.pc

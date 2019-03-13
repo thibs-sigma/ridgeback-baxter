@@ -1,0 +1,1 @@
+/home/thib/baxter-ridgeback-kinetic_ws/devel/.private/puma_motor_msgs/share/roseus/ros/puma_motor_msgs/msg/MultiStatus.l

@@ -1,0 +1,8 @@
+prefix=/home/thib/baxter-ridgeback-kinetic_ws/install
+
+Name: robot_upstart
+Description: Description of robot_upstart
+Version: 0.2.2
+Cflags: 
+Libs: -L/home/thib/baxter-ridgeback-kinetic_ws/install/lib 
+Requires: 

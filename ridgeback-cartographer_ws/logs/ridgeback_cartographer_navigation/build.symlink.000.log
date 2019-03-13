@@ -1,0 +1,3 @@
+Symlinking /home/thib/ridgeback-cartographer_ws/devel/share/ridgeback_cartographer_navigation/cmake/ridgeback_cartographer_navigationConfig.cmake
+Symlinking /home/thib/ridgeback-cartographer_ws/devel/share/ridgeback_cartographer_navigation/cmake/ridgeback_cartographer_navigationConfig-version.cmake
+Symlinking /home/thib/ridgeback-cartographer_ws/devel/lib/pkgconfig/ridgeback_cartographer_navigation.pc
