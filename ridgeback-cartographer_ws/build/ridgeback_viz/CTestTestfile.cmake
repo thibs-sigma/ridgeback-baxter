@@ -1,9 +1,0 @@
-# CMake generated Testfile for 
-# Source directory: /home/thib/ridgeback-cartographer_ws/src/ridgeback_desktop/ridgeback_viz
-# Build directory: /home/thib/ridgeback-cartographer_ws/build/ridgeback_viz
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-add_test(_ctest_ridgeback_viz_roslaunch-check_launch_view_model.launch "/home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/test_results/ridgeback_viz/roslaunch-check_launch_view_model.launch.xml" "--return-code" "/usr/bin/cmake -E make_directory /home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/test_results/ridgeback_viz" "/opt/ros/kinetic/share/roslaunch/cmake/../scripts/roslaunch-check -o '/home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/test_results/ridgeback_viz/roslaunch-check_launch_view_model.launch.xml' '/home/thib/ridgeback-cartographer_ws/src/ridgeback_desktop/ridgeback_viz/launch/view_model.launch' ")
-add_test(_ctest_ridgeback_viz_roslaunch-check_launch_view_robot.launch "/home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/test_results/ridgeback_viz/roslaunch-check_launch_view_robot.launch.xml" "--return-code" "/usr/bin/cmake -E make_directory /home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/test_results/ridgeback_viz" "/opt/ros/kinetic/share/roslaunch/cmake/../scripts/roslaunch-check -o '/home/thib/ridgeback-cartographer_ws/build/ridgeback_viz/test_results/ridgeback_viz/roslaunch-check_launch_view_robot.launch.xml' '/home/thib/ridgeback-cartographer_ws/src/ridgeback_desktop/ridgeback_viz/launch/view_robot.launch' ")
-subdirs(gtest)

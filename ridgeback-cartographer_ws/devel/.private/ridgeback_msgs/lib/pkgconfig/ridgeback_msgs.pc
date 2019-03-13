@@ -1,8 +1,0 @@
-prefix=/home/thib/ridgeback-cartographer_ws/devel/.private/ridgeback_msgs
-
-Name: ridgeback_msgs
-Description: Description of ridgeback_msgs
-Version: 0.2.1
-Cflags: -I/home/thib/ridgeback-cartographer_ws/devel/.private/ridgeback_msgs/include
-Libs: -L/home/thib/ridgeback-cartographer_ws/devel/.private/ridgeback_msgs/lib 
-Requires: std_msgs message_runtime
