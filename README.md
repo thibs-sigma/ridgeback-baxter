@@ -40,6 +40,10 @@ This repo contains all working content for the Baxter-on-Ridgeback project.
   $ roslaunch ridgeback_cartographer_navigation cartographer_demo.launch
   ```
 
+## Baxter-Ridgeback_ws
+
+- **Simulator for Baxter-on-Ridgeback --> NOT WORKING PROPERLY RIGHT NOW...**
+
 - Gazebo simulation working with Ridgeback + Baxter mounting !
   ```bash
   $ cd ~/baxter-ridgeback-kinetic_ws
@@ -51,9 +55,3 @@ This repo contains all working content for the Baxter-on-Ridgeback project.
   ------------
   $ roslaunch ridgeback_viz view_robot.launch
   ```  
-  
-
-## Baxter-Ridgeback_ws
-
-- **Simulator for Baxter-on-Ridgeback --> NOT WORKING PROPERLY RIGHT NOW...**
-
